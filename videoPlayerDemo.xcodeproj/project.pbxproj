@@ -21,6 +21,7 @@
 		59D7C13920053F9B00C68996 /* SettingsLaucher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59D7C13820053F9B00C68996 /* SettingsLaucher.swift */; };
 		59D7C13B2006406600C68996 /* SettingCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59D7C13A2006406600C68996 /* SettingCell.swift */; };
 		59D7C13E2007C09300C68996 /* APIServices.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59D7C13D2007C09300C68996 /* APIServices.swift */; };
+		59D7C1402007DA3700C68996 /* FeedCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59D7C13F2007DA3700C68996 /* FeedCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +62,7 @@
 		59D7C13820053F9B00C68996 /* SettingsLaucher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsLaucher.swift; sourceTree = "<group>"; };
 		59D7C13A2006406600C68996 /* SettingCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingCell.swift; sourceTree = "<group>"; };
 		59D7C13D2007C09300C68996 /* APIServices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIServices.swift; sourceTree = "<group>"; };
+		59D7C13F2007DA3700C68996 /* FeedCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -157,6 +159,7 @@
 				5997EC651FFD0F1C0098FCC1 /* VideoCell.swift */,
 				5997EC681FFD132D0098FCC1 /* MenuBar.swift */,
 				59D7C13A2006406600C68996 /* SettingCell.swift */,
+				59D7C13F2007DA3700C68996 /* FeedCell.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -321,6 +324,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5997EC361FFBEBD70098FCC1 /* HomeController.swift in Sources */,
+				59D7C1402007DA3700C68996 /* FeedCell.swift in Sources */,
 				59D7C13920053F9B00C68996 /* SettingsLaucher.swift in Sources */,
 				59D7C13B2006406600C68996 /* SettingCell.swift in Sources */,
 				5997EC6C1FFEA3B30098FCC1 /* Video.swift in Sources */,
