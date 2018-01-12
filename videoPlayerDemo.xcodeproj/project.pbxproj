@@ -24,6 +24,7 @@
 		59D7C1402007DA3700C68996 /* FeedCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59D7C13F2007DA3700C68996 /* FeedCell.swift */; };
 		59D7C1422007F07800C68996 /* TrandingCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59D7C1412007F07800C68996 /* TrandingCell.swift */; };
 		59D7C1442007F3E000C68996 /* SubscriptionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59D7C1432007F3E000C68996 /* SubscriptionCell.swift */; };
+		59D7C1462009167600C68996 /* VideoLaucher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59D7C1452009167600C68996 /* VideoLaucher.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,6 +68,7 @@
 		59D7C13F2007DA3700C68996 /* FeedCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedCell.swift; sourceTree = "<group>"; };
 		59D7C1412007F07800C68996 /* TrandingCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrandingCell.swift; sourceTree = "<group>"; };
 		59D7C1432007F3E000C68996 /* SubscriptionCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscriptionCell.swift; sourceTree = "<group>"; };
+		59D7C1452009167600C68996 /* VideoLaucher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoLaucher.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -153,6 +155,7 @@
 			isa = PBXGroup;
 			children = (
 				5997EC621FFD0DA50098FCC1 /* Extensions.swift */,
+				59D7C1452009167600C68996 /* VideoLaucher.swift */,
 			);
 			path = Helpers;
 			sourceTree = "<group>";
@@ -330,6 +333,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5997EC361FFBEBD70098FCC1 /* HomeController.swift in Sources */,
+				59D7C1462009167600C68996 /* VideoLaucher.swift in Sources */,
 				59D7C1402007DA3700C68996 /* FeedCell.swift in Sources */,
 				59D7C13920053F9B00C68996 /* SettingsLaucher.swift in Sources */,
 				59D7C13B2006406600C68996 /* SettingCell.swift in Sources */,
